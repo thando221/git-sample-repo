@@ -12,3 +12,22 @@ git log 						-> Check log history
 git diff <filename> 					-> Check changes made to file with existing file
 git remote add origin<GitHub Repository URL> 		-> Establish connection to the remote GitHub
 git push origin master 					-> Push to master branch
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+testing branches again
