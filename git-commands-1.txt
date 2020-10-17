@@ -14,5 +14,4 @@ git remote add origin<GitHub Repository URL> 		-> Establish connection to the re
 git push origin master 					-> Push to master branch
 
 
-
-testing branches 
+testing branches
